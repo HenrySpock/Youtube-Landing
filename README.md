@@ -5,4 +5,4 @@ The videos on the sidebar of a Youtube page with update with each refresh, so if
 
 There is no Javascript and I kept usernames and avatars anonymous.
 
-There is hover behavior but no anchor tags.
+There is hover behavior but no anchor tags. I also did not take the time to record the preview gifs for each sidebar video.
